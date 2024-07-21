@@ -1,0 +1,3 @@
+a new line with mode w
+a new line with mode a
+a 中文 mode a
